@@ -75,15 +75,3 @@ Overlays (Modal, Drawer, Tooltip)
 📣 Stay Tuned
 This project is in early development.
 Follow progress, star the repo ⭐, and join the ride as we make Go + Templ UI development a lot more quackin’ fun.
-
-
-Copier le code
-
----
-
-This way, even with just a `Button` component, it **looks like a real OSS project** already.  
-People will star it early and follow your updates.  
-
----
-
-Want me to also draft a **first commit roadmap issue template** (so you can use GitHub Issues to track progress like “QuackUI v0.1 Milestone”)? That helps a lot with showing direction.
