@@ -18,4 +18,4 @@ Designed to bring a **Flutter-like developer experience** to server-driven UIs.
 Install via Go modules:
 
 ```bash
-go get github.com/yourusername/quackui
+go get github.com/DuckDHD/quackui
