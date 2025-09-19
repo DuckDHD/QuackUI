@@ -29,6 +29,7 @@ templ Page() {
         @quackui.Button("Cancel", quackui.Outline)
     </div>
 }
+```
 📚 Components (WIP)
  Button (variants: solid, outline, ghost, soft, white, link)
 
@@ -43,12 +44,13 @@ templ Page() {
 🛠 Development
 Clone the repo and run the demo app:
 
-bash
-Copier le code
+```bash
+#Copier le code
 git clone https://github.com/yourusername/quackui
 cd quackui/cmd/demo
 go run .
-This starts a local showcase app (like Storybook) to explore components.
+#This starts a local showcase app (like Storybook) to explore components.
+```
 
 💡 Philosophy
 QuackUI is built with three core principles:
@@ -74,7 +76,7 @@ Overlays (Modal, Drawer, Tooltip)
 This project is in early development.
 Follow progress, star the repo ⭐, and join the ride as we make Go + Templ UI development a lot more quackin’ fun.
 
-yaml
+
 Copier le code
 
 ---
